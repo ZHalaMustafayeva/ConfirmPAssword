@@ -1,8 +1,8 @@
 {
-  "name": "FINANCE",
+  "name": "ConfirmPassword",
   "version": "0.1.0",
-  "homepage": "/finance/order",
-  "description": "ERP INTEL FINANCE",
+  "homepage": "/confirm-password/order",
+  "description": "ERP INTEL CONFIRM PASSWORD",
   "private": true,
   "dependencies": {
     "@ant-design/plots": "^1.2.5",
